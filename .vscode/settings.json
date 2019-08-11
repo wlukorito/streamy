@@ -1,0 +1,6 @@
+{
+    "prettier.jsxBracketSameLine": true,
+    "prettier.tabWidth": 4,
+    "prettier.printWidth": 120,
+    "prettier.tslintIntegration": true
+}
